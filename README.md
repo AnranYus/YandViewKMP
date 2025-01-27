@@ -1,3 +1,6 @@
+## Kotlin Multiplatform学习用Demo，用以学习KMP跨平台开发
+源于[YandView](https://github.com/AnranYus/YandView)
+
 This is a Kotlin Multiplatform project targeting Android, Desktop.
 
 * `/composeApp` is for code that will be shared across your Compose Multiplatform applications.
